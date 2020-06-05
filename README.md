@@ -4,9 +4,9 @@ $ pkg install python2
 
 $ pkg install git
 
-$ git clone https://github.com/mrpaktoto/spam-meledak-meletop
+$ git clone https://github.com/mrbrutal46/SPAM-MELEDAK-MRLETOP
 
 
-$ cd spam-meledak-meletop
+$ cd SPAM-MELEDAK-MELETOP
 
 $ 
