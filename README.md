@@ -11,4 +11,4 @@ $ git clone https://github.com/mrbrutal46/SPAM-MELEDAK-MRLETOP
 
 $ cd SPAM-MELEDAK-MELETOP
 
-$ 
+$ python telnyet.py
